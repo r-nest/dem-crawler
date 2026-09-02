@@ -13,8 +13,8 @@ about=Crawls over a DEM and extracts areas or basins that are either upstream or
     The algorithm is added to the processing toolbox.
 	Icon by Icons8 : https://icones8.fr/icon/Av4zJi08KK9C/spotted-patterns.
 
-tracker=https://github.com/r-nest/relief-fill/issues
-repository=https://github.com/r-nest/relief-fill
+tracker=https://github.com/r-nest/dem-crawler/issues
+repository=https://github.com/r-nest/dem-crawler
 # End of mandatory metadata
 
 # Recommended items:
