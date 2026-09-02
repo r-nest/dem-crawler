@@ -26,7 +26,7 @@ hasProcessingProvider=True
 # Tags are comma separated with spaces allowed
 tags=python, DEM, raster, relief, topography, hydrography, MNT, fill algorithm
 
-homepage=http://homepage
+homepage=https://github.com/r-nest/dem-crawler
 category=Plugins
 icon=icon.png
 # experimental flag
